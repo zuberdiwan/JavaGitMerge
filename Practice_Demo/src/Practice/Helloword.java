@@ -2,6 +2,6 @@ package Practice;
 
 public class Helloword {
 public static void main(String[] args) {
-	System.out.println("hello zuber your update work fine...");//comment from zuber 
+	System.out.println("my task done...");//comment from zuber 
 }
 }
